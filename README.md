@@ -1,16 +1,14 @@
-### Hi there 👋
+<img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
 
-<!--
-**reinaldorocha/reinaldorocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Heeeeyy guys <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
-Here are some ideas to get you started:
+#### Me chamo Reinaldo, tenho 21 anos e moro em Teresina-PI.!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 
+- - :bulb: Procuro me aprimorar a cada dia.
+- :mortar_board: Cursando: Ciência da Computação
+
+
+🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/reinaldorocha99/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+
+
