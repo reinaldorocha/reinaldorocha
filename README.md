@@ -5,7 +5,7 @@
 #### Me chamo Reinaldo, tenho 21 anos e moro em Teresina-PI.!  
 
 - 💻 
-- - :bulb: Procuro me aprimorar a cada dia.
+- :bulb: Procuro me aprimorar a cada dia.
 - :mortar_board: Cursando: Ciência da Computação
 
 
