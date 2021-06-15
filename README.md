@@ -2,7 +2,7 @@
 
 # Hello World  💻 
 
-#### Me chamo Reinaldo, tenho 21 anos e moro em Teresina-PI.!  
+#### Me chamo Reinaldo, tenho 21 anos e moro em Teresina-PI!  
 
 
 - :bulb: Procurando me aprimorar a cada dia.
