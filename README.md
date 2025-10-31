@@ -2,11 +2,7 @@
 
 # Hello World  💻 
 
-#### Me chamo Reinaldo, tenho 21 anos e moro em Teresina-PI!  
 
-
-- :bulb: Procurando me aprimorar a cada dia.
-- :mortar_board: Cursando: Ciência da Computação
 - 📫 Contato: reinaldojunior9996@gmail.com
 
 
